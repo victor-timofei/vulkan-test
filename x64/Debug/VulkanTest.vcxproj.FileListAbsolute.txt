@@ -1,0 +1,2 @@
+C:\Users\Dell\Documents\Visual Studio 2019\Projects\VulkanTest\x64\Debug\VulkanTest.exe
+C:\Users\Dell\Documents\Visual Studio 2019\Projects\VulkanTest\x64\Debug\VulkanTest.pdb
